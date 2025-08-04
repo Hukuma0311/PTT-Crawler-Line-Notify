@@ -6,7 +6,7 @@
 # 關鍵字爬取PTT.cc看板並傳遞到Line Notify
 *2024/10/22更新：Line將於2025年4月停止支援Line Notify相關API服務，因此本repo屆時也將無法使用。*
 
-*注意: 此專案仍可運作但已停止更新*
+*2025/8/4更新: 此專案已無法使用*
 
 <!--[專案封面圖](https://raw.githubusercontent.com/Hukuma0311/RPA-Demo/refs/heads/main/pic/logo.jpg)-->
 
